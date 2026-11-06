@@ -1,0 +1,2559 @@
+{
+  "labels": {
+    "2114400031": "Ponytails",
+    "2114400032": "Short",
+    "2114400033": "Long",
+    "2114400034": "Loose",
+    "2114400035": "Headband",
+    "2114400036": "Short styles",
+    "2114400037": "Full styles",
+    "2114400038": "Half styles",
+    "2114400039": "Back",
+    "2114400040": "Long styles"
+  },
+  "localization_fallback": "English for new headings only",
+  "localization_files": [
+    "ar.w3strings",
+    "br.w3strings",
+    "cn.w3strings",
+    "cz.w3strings",
+    "de.w3strings",
+    "en.w3strings",
+    "es.w3strings",
+    "esmx.w3strings",
+    "fr.w3strings",
+    "hu.w3strings",
+    "it.w3strings",
+    "jp.w3strings",
+    "kr.w3strings",
+    "pl.w3strings",
+    "ru.w3strings",
+    "tr.w3strings",
+    "zh.w3strings"
+  ],
+  "scenes": {
+    "dlc/bob/data/living_world/merchants/shop_14_tournament_meadows_barber.w2scene": {
+      "menus": [
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Ponytails",
+            "Short"
+          ],
+          "section": 428,
+          "choice": 429,
+          "entry": 431,
+          "back": 432,
+          "parent_section": 423,
+          "lines": [
+            69,
+            84,
+            96,
+            132,
+            157,
+            432
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Ponytails",
+            "Long"
+          ],
+          "section": 433,
+          "choice": 434,
+          "entry": 436,
+          "back": 437,
+          "parent_section": 423,
+          "lines": [
+            147,
+            152,
+            182,
+            437
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Ponytails"
+          ],
+          "section": 423,
+          "choice": 424,
+          "entry": 426,
+          "back": 427,
+          "parent_section": 64,
+          "lines": [
+            431,
+            436,
+            427
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Long styles",
+            "Loose"
+          ],
+          "section": 443,
+          "choice": 444,
+          "entry": 446,
+          "back": 447,
+          "parent_section": 438,
+          "lines": [
+            107,
+            112,
+            122,
+            177,
+            192,
+            447
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Long styles",
+            "Headband"
+          ],
+          "section": 448,
+          "choice": 449,
+          "entry": 451,
+          "back": 452,
+          "parent_section": 438,
+          "lines": [
+            117,
+            127,
+            197,
+            452
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Long styles"
+          ],
+          "section": 438,
+          "choice": 439,
+          "entry": 441,
+          "back": 442,
+          "parent_section": 64,
+          "lines": [
+            446,
+            451,
+            442
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Short styles"
+          ],
+          "section": 453,
+          "choice": 454,
+          "entry": 456,
+          "back": 457,
+          "parent_section": 64,
+          "lines": [
+            101,
+            91,
+            206,
+            202,
+            457
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu"
+          ],
+          "section": 64,
+          "choice": 65,
+          "back": 66,
+          "lines": [
+            426,
+            441,
+            456,
+            66
+          ]
+        },
+        {
+          "path": [
+            "dlc2_beard_style_menu",
+            "Full styles"
+          ],
+          "section": 458,
+          "choice": 459,
+          "entry": 461,
+          "back": 462,
+          "parent_section": 58,
+          "lines": [
+            60,
+            299,
+            304,
+            354,
+            462
+          ]
+        },
+        {
+          "path": [
+            "dlc2_beard_style_menu",
+            "Half styles"
+          ],
+          "section": 463,
+          "choice": 464,
+          "entry": 466,
+          "back": 467,
+          "parent_section": 58,
+          "lines": [
+            339,
+            344,
+            359,
+            364,
+            369,
+            467
+          ]
+        },
+        {
+          "path": [
+            "dlc2_beard_style_menu"
+          ],
+          "section": 58,
+          "choice": 59,
+          "back": 248,
+          "lines": [
+            296,
+            461,
+            466,
+            248
+          ]
+        }
+      ],
+      "original_exports": 422,
+      "new_exports": 467,
+      "moved_selection_lines": {
+        "1092736": 69,
+        "1092737": 84,
+        "1092740": 96,
+        "2114400004": 132,
+        "2114400009": 157,
+        "2114400007": 147,
+        "2114400008": 152,
+        "2114400021": 182,
+        "1092738": 107,
+        "2114400000": 112,
+        "2114400002": 122,
+        "2114400020": 177,
+        "2114400023": 192,
+        "2114400001": 117,
+        "2114400003": 127,
+        "2114400024": 197,
+        "1092739": 101,
+        "1092741": 91,
+        "1479191": 206,
+        "2114400030": 202,
+        "1092834": 60,
+        "1092742": 299,
+        "1092743": 304,
+        "2114400026": 354,
+        "2114400017": 339,
+        "2114400018": 344,
+        "2114400027": 359,
+        "2114400028": 364,
+        "2114400029": 369
+      },
+      "navigation_lines": [
+        426,
+        427,
+        431,
+        432,
+        436,
+        437,
+        441,
+        442,
+        446,
+        447,
+        451,
+        452,
+        456,
+        457,
+        461,
+        462,
+        466,
+        467
+      ],
+      "root_choices": [
+        65,
+        59
+      ],
+      "fancy_bowl_present": false,
+      "hidden_localization_ids": [
+        1092744
+      ],
+      "corrected_hair_links": []
+    },
+    "dlc/bob/data/living_world/merchants/shop_28_lake_village_barber.w2scene": {
+      "menus": [
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Ponytails",
+            "Short"
+          ],
+          "section": 518,
+          "choice": 519,
+          "entry": 521,
+          "back": 522,
+          "parent_section": 513,
+          "lines": [
+            177,
+            190,
+            202,
+            238,
+            263,
+            522
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Ponytails",
+            "Long"
+          ],
+          "section": 523,
+          "choice": 524,
+          "entry": 526,
+          "back": 527,
+          "parent_section": 513,
+          "lines": [
+            253,
+            258,
+            288,
+            527
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Ponytails"
+          ],
+          "section": 513,
+          "choice": 514,
+          "entry": 516,
+          "back": 517,
+          "parent_section": 172,
+          "lines": [
+            521,
+            526,
+            517
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Long styles",
+            "Loose"
+          ],
+          "section": 533,
+          "choice": 534,
+          "entry": 536,
+          "back": 537,
+          "parent_section": 528,
+          "lines": [
+            213,
+            218,
+            228,
+            283,
+            298,
+            537
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Long styles",
+            "Headband"
+          ],
+          "section": 538,
+          "choice": 539,
+          "entry": 541,
+          "back": 542,
+          "parent_section": 528,
+          "lines": [
+            223,
+            233,
+            303,
+            542
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Long styles"
+          ],
+          "section": 528,
+          "choice": 529,
+          "entry": 531,
+          "back": 532,
+          "parent_section": 172,
+          "lines": [
+            536,
+            541,
+            532
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Short styles"
+          ],
+          "section": 543,
+          "choice": 544,
+          "entry": 546,
+          "back": 547,
+          "parent_section": 172,
+          "lines": [
+            207,
+            197,
+            312,
+            308,
+            547
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu"
+          ],
+          "section": 172,
+          "choice": 173,
+          "back": 174,
+          "lines": [
+            516,
+            531,
+            546,
+            174
+          ]
+        },
+        {
+          "path": [
+            "dlc2_beard_style_menu",
+            "Full styles"
+          ],
+          "section": 548,
+          "choice": 549,
+          "entry": 551,
+          "back": 552,
+          "parent_section": 109,
+          "lines": [
+            111,
+            386,
+            391,
+            441,
+            552
+          ]
+        },
+        {
+          "path": [
+            "dlc2_beard_style_menu",
+            "Half styles"
+          ],
+          "section": 553,
+          "choice": 554,
+          "entry": 556,
+          "back": 557,
+          "parent_section": 109,
+          "lines": [
+            426,
+            431,
+            446,
+            451,
+            456,
+            557
+          ]
+        },
+        {
+          "path": [
+            "dlc2_beard_style_menu"
+          ],
+          "section": 109,
+          "choice": 110,
+          "back": 354,
+          "lines": [
+            383,
+            551,
+            556,
+            354
+          ]
+        }
+      ],
+      "original_exports": 512,
+      "new_exports": 557,
+      "moved_selection_lines": {
+        "1092736": 177,
+        "1092737": 190,
+        "1092740": 202,
+        "2114400004": 238,
+        "2114400009": 263,
+        "2114400007": 253,
+        "2114400008": 258,
+        "2114400021": 288,
+        "1092738": 213,
+        "2114400000": 218,
+        "2114400002": 228,
+        "2114400020": 283,
+        "2114400023": 298,
+        "2114400001": 223,
+        "2114400003": 233,
+        "2114400024": 303,
+        "1092739": 207,
+        "1092741": 197,
+        "1479191": 312,
+        "2114400030": 308,
+        "1092834": 111,
+        "1092742": 386,
+        "1092743": 391,
+        "2114400026": 441,
+        "2114400017": 426,
+        "2114400018": 431,
+        "2114400027": 446,
+        "2114400028": 451,
+        "2114400029": 456
+      },
+      "navigation_lines": [
+        516,
+        517,
+        521,
+        522,
+        526,
+        527,
+        531,
+        532,
+        536,
+        537,
+        541,
+        542,
+        546,
+        547,
+        551,
+        552,
+        556,
+        557
+      ],
+      "root_choices": [
+        173,
+        110
+      ],
+      "fancy_bowl_present": false,
+      "hidden_localization_ids": [
+        1092744
+      ],
+      "corrected_hair_links": []
+    },
+    "dlc/bob/data/living_world/merchants/shop_44_city_south_barber.w2scene": {
+      "menus": [
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Ponytails",
+            "Short"
+          ],
+          "section": 444,
+          "choice": 445,
+          "entry": 447,
+          "back": 448,
+          "parent_section": 439,
+          "lines": [
+            79,
+            91,
+            103,
+            139,
+            164,
+            448
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Ponytails",
+            "Long"
+          ],
+          "section": 449,
+          "choice": 450,
+          "entry": 452,
+          "back": 453,
+          "parent_section": 439,
+          "lines": [
+            154,
+            159,
+            189,
+            453
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Ponytails"
+          ],
+          "section": 439,
+          "choice": 440,
+          "entry": 442,
+          "back": 443,
+          "parent_section": 74,
+          "lines": [
+            447,
+            452,
+            443
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Long styles",
+            "Loose"
+          ],
+          "section": 459,
+          "choice": 460,
+          "entry": 462,
+          "back": 463,
+          "parent_section": 454,
+          "lines": [
+            114,
+            119,
+            129,
+            184,
+            199,
+            463
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Long styles",
+            "Headband"
+          ],
+          "section": 464,
+          "choice": 465,
+          "entry": 467,
+          "back": 468,
+          "parent_section": 454,
+          "lines": [
+            124,
+            134,
+            204,
+            468
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Long styles"
+          ],
+          "section": 454,
+          "choice": 455,
+          "entry": 457,
+          "back": 458,
+          "parent_section": 74,
+          "lines": [
+            462,
+            467,
+            458
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Short styles"
+          ],
+          "section": 469,
+          "choice": 470,
+          "entry": 472,
+          "back": 473,
+          "parent_section": 74,
+          "lines": [
+            108,
+            98,
+            218,
+            214,
+            209,
+            473
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu"
+          ],
+          "section": 74,
+          "choice": 75,
+          "back": 76,
+          "lines": [
+            442,
+            457,
+            472,
+            76
+          ]
+        },
+        {
+          "path": [
+            "dlc2_beard_style_menu",
+            "Full styles"
+          ],
+          "section": 474,
+          "choice": 475,
+          "entry": 477,
+          "back": 478,
+          "parent_section": 67,
+          "lines": [
+            69,
+            321,
+            326,
+            376,
+            478
+          ]
+        },
+        {
+          "path": [
+            "dlc2_beard_style_menu",
+            "Half styles"
+          ],
+          "section": 479,
+          "choice": 480,
+          "entry": 482,
+          "back": 483,
+          "parent_section": 67,
+          "lines": [
+            361,
+            366,
+            381,
+            386,
+            391,
+            483
+          ]
+        },
+        {
+          "path": [
+            "dlc2_beard_style_menu"
+          ],
+          "section": 67,
+          "choice": 68,
+          "back": 73,
+          "lines": [
+            318,
+            477,
+            482,
+            73
+          ]
+        }
+      ],
+      "original_exports": 438,
+      "new_exports": 483,
+      "moved_selection_lines": {
+        "1092736": 79,
+        "1092737": 91,
+        "1092740": 103,
+        "2114400004": 139,
+        "2114400009": 164,
+        "2114400007": 154,
+        "2114400008": 159,
+        "2114400021": 189,
+        "1092738": 114,
+        "2114400000": 119,
+        "2114400002": 129,
+        "2114400020": 184,
+        "2114400023": 199,
+        "2114400001": 124,
+        "2114400003": 134,
+        "2114400024": 204,
+        "1092739": 108,
+        "1092741": 98,
+        "1479191": 218,
+        "1211183": 214,
+        "2114400030": 209,
+        "1092834": 69,
+        "1092742": 321,
+        "1092743": 326,
+        "2114400026": 376,
+        "2114400017": 361,
+        "2114400018": 366,
+        "2114400027": 381,
+        "2114400028": 386,
+        "2114400029": 391
+      },
+      "navigation_lines": [
+        442,
+        443,
+        447,
+        448,
+        452,
+        453,
+        457,
+        458,
+        462,
+        463,
+        467,
+        468,
+        472,
+        473,
+        477,
+        478,
+        482,
+        483
+      ],
+      "root_choices": [
+        75,
+        68
+      ],
+      "fancy_bowl_present": true,
+      "hidden_localization_ids": [
+        1092744
+      ],
+      "corrected_hair_links": []
+    },
+    "dlc/dlc2/data/quests/scenes/shop_brokvar_barber_01.w2scene": {
+      "menus": [
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Ponytails",
+            "Short"
+          ],
+          "section": 366,
+          "choice": 367,
+          "entry": 369,
+          "back": 370,
+          "parent_section": 361,
+          "lines": [
+            38,
+            50,
+            62,
+            98,
+            123,
+            370
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Ponytails",
+            "Long"
+          ],
+          "section": 371,
+          "choice": 372,
+          "entry": 374,
+          "back": 375,
+          "parent_section": 361,
+          "lines": [
+            113,
+            118,
+            148,
+            375
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Ponytails"
+          ],
+          "section": 361,
+          "choice": 362,
+          "entry": 364,
+          "back": 365,
+          "parent_section": 33,
+          "lines": [
+            369,
+            374,
+            365
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Long styles",
+            "Loose"
+          ],
+          "section": 381,
+          "choice": 382,
+          "entry": 384,
+          "back": 385,
+          "parent_section": 376,
+          "lines": [
+            73,
+            78,
+            88,
+            143,
+            158,
+            385
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Long styles",
+            "Headband"
+          ],
+          "section": 386,
+          "choice": 387,
+          "entry": 389,
+          "back": 390,
+          "parent_section": 376,
+          "lines": [
+            83,
+            93,
+            163,
+            390
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Long styles"
+          ],
+          "section": 376,
+          "choice": 377,
+          "entry": 379,
+          "back": 380,
+          "parent_section": 33,
+          "lines": [
+            384,
+            389,
+            380
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Short styles"
+          ],
+          "section": 391,
+          "choice": 392,
+          "entry": 394,
+          "back": 395,
+          "parent_section": 33,
+          "lines": [
+            67,
+            57,
+            172,
+            168,
+            395
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu"
+          ],
+          "section": 33,
+          "choice": 34,
+          "back": 35,
+          "lines": [
+            364,
+            379,
+            394,
+            35
+          ]
+        },
+        {
+          "path": [
+            "dlc2_beard_style_menu",
+            "Full styles"
+          ],
+          "section": 396,
+          "choice": 397,
+          "entry": 399,
+          "back": 400,
+          "parent_section": 26,
+          "lines": [
+            28,
+            238,
+            243,
+            293,
+            400
+          ]
+        },
+        {
+          "path": [
+            "dlc2_beard_style_menu",
+            "Half styles"
+          ],
+          "section": 401,
+          "choice": 402,
+          "entry": 404,
+          "back": 405,
+          "parent_section": 26,
+          "lines": [
+            278,
+            283,
+            298,
+            303,
+            308,
+            405
+          ]
+        },
+        {
+          "path": [
+            "dlc2_beard_style_menu"
+          ],
+          "section": 26,
+          "choice": 27,
+          "back": 32,
+          "lines": [
+            235,
+            399,
+            404,
+            32
+          ]
+        }
+      ],
+      "original_exports": 360,
+      "new_exports": 405,
+      "moved_selection_lines": {
+        "1092736": 38,
+        "1092737": 50,
+        "1092740": 62,
+        "2114400004": 98,
+        "2114400009": 123,
+        "2114400007": 113,
+        "2114400008": 118,
+        "2114400021": 148,
+        "1092738": 73,
+        "2114400000": 78,
+        "2114400002": 88,
+        "2114400020": 143,
+        "2114400023": 158,
+        "2114400001": 83,
+        "2114400003": 93,
+        "2114400024": 163,
+        "1092739": 67,
+        "1092741": 57,
+        "1479191": 172,
+        "2114400030": 168,
+        "1092834": 28,
+        "1092742": 238,
+        "1092743": 243,
+        "2114400026": 293,
+        "2114400017": 278,
+        "2114400018": 283,
+        "2114400027": 298,
+        "2114400028": 303,
+        "2114400029": 308
+      },
+      "navigation_lines": [
+        364,
+        365,
+        369,
+        370,
+        374,
+        375,
+        379,
+        380,
+        384,
+        385,
+        389,
+        390,
+        394,
+        395,
+        399,
+        400,
+        404,
+        405
+      ],
+      "root_choices": [
+        34,
+        27
+      ],
+      "fancy_bowl_present": false,
+      "hidden_localization_ids": [
+        1092744
+      ],
+      "corrected_hair_links": []
+    },
+    "dlc/dlc2/data/quests/scenes/shop_glinsk_barber_01.w2scene": {
+      "menus": [
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Ponytails",
+            "Short"
+          ],
+          "section": 374,
+          "choice": 375,
+          "entry": 377,
+          "back": 378,
+          "parent_section": 369,
+          "lines": [
+            53,
+            65,
+            77,
+            113,
+            138,
+            378
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Ponytails",
+            "Long"
+          ],
+          "section": 379,
+          "choice": 380,
+          "entry": 382,
+          "back": 383,
+          "parent_section": 369,
+          "lines": [
+            128,
+            133,
+            163,
+            383
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Ponytails"
+          ],
+          "section": 369,
+          "choice": 370,
+          "entry": 372,
+          "back": 373,
+          "parent_section": 48,
+          "lines": [
+            377,
+            382,
+            373
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Long styles",
+            "Loose"
+          ],
+          "section": 389,
+          "choice": 390,
+          "entry": 392,
+          "back": 393,
+          "parent_section": 384,
+          "lines": [
+            88,
+            93,
+            103,
+            158,
+            173,
+            393
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Long styles",
+            "Headband"
+          ],
+          "section": 394,
+          "choice": 395,
+          "entry": 397,
+          "back": 398,
+          "parent_section": 384,
+          "lines": [
+            98,
+            108,
+            178,
+            398
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Long styles"
+          ],
+          "section": 384,
+          "choice": 385,
+          "entry": 387,
+          "back": 388,
+          "parent_section": 48,
+          "lines": [
+            392,
+            397,
+            388
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Short styles"
+          ],
+          "section": 399,
+          "choice": 400,
+          "entry": 402,
+          "back": 403,
+          "parent_section": 48,
+          "lines": [
+            82,
+            72,
+            187,
+            183,
+            403
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu"
+          ],
+          "section": 48,
+          "choice": 49,
+          "back": 50,
+          "lines": [
+            372,
+            387,
+            402,
+            50
+          ]
+        },
+        {
+          "path": [
+            "dlc2_beard_style_menu",
+            "Full styles"
+          ],
+          "section": 404,
+          "choice": 405,
+          "entry": 407,
+          "back": 408,
+          "parent_section": 41,
+          "lines": [
+            43,
+            253,
+            258,
+            308,
+            408
+          ]
+        },
+        {
+          "path": [
+            "dlc2_beard_style_menu",
+            "Half styles"
+          ],
+          "section": 409,
+          "choice": 410,
+          "entry": 412,
+          "back": 413,
+          "parent_section": 41,
+          "lines": [
+            293,
+            298,
+            313,
+            318,
+            323,
+            413
+          ]
+        },
+        {
+          "path": [
+            "dlc2_beard_style_menu"
+          ],
+          "section": 41,
+          "choice": 42,
+          "back": 47,
+          "lines": [
+            250,
+            407,
+            412,
+            47
+          ]
+        }
+      ],
+      "original_exports": 368,
+      "new_exports": 413,
+      "moved_selection_lines": {
+        "1092736": 53,
+        "1092737": 65,
+        "1092740": 77,
+        "2114400004": 113,
+        "2114400009": 138,
+        "2114400007": 128,
+        "2114400008": 133,
+        "2114400021": 163,
+        "1092738": 88,
+        "2114400000": 93,
+        "2114400002": 103,
+        "2114400020": 158,
+        "2114400023": 173,
+        "2114400001": 98,
+        "2114400003": 108,
+        "2114400024": 178,
+        "1092739": 82,
+        "1092741": 72,
+        "1479191": 187,
+        "2114400030": 183,
+        "1092834": 43,
+        "1092742": 253,
+        "1092743": 258,
+        "2114400026": 308,
+        "2114400017": 293,
+        "2114400018": 298,
+        "2114400027": 313,
+        "2114400028": 318,
+        "2114400029": 323
+      },
+      "navigation_lines": [
+        372,
+        373,
+        377,
+        378,
+        382,
+        383,
+        387,
+        388,
+        392,
+        393,
+        397,
+        398,
+        402,
+        403,
+        407,
+        408,
+        412,
+        413
+      ],
+      "root_choices": [
+        49,
+        42
+      ],
+      "fancy_bowl_present": false,
+      "hidden_localization_ids": [
+        1092744
+      ],
+      "corrected_hair_links": []
+    },
+    "dlc/dlc2/data/quests/scenes/shop_kaer_trolde_sjusta.w2scene": {
+      "menus": [
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Ponytails",
+            "Short"
+          ],
+          "section": 512,
+          "choice": 513,
+          "entry": 515,
+          "back": 516,
+          "parent_section": 507,
+          "lines": [
+            49,
+            61,
+            73,
+            109,
+            134,
+            516
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Ponytails",
+            "Long"
+          ],
+          "section": 517,
+          "choice": 518,
+          "entry": 520,
+          "back": 521,
+          "parent_section": 507,
+          "lines": [
+            124,
+            129,
+            159,
+            521
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Ponytails"
+          ],
+          "section": 507,
+          "choice": 508,
+          "entry": 510,
+          "back": 511,
+          "parent_section": 44,
+          "lines": [
+            515,
+            520,
+            511
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Long styles",
+            "Loose"
+          ],
+          "section": 527,
+          "choice": 528,
+          "entry": 530,
+          "back": 531,
+          "parent_section": 522,
+          "lines": [
+            84,
+            89,
+            99,
+            154,
+            169,
+            531
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Long styles",
+            "Headband"
+          ],
+          "section": 532,
+          "choice": 533,
+          "entry": 535,
+          "back": 536,
+          "parent_section": 522,
+          "lines": [
+            94,
+            104,
+            174,
+            536
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Long styles"
+          ],
+          "section": 522,
+          "choice": 523,
+          "entry": 525,
+          "back": 526,
+          "parent_section": 44,
+          "lines": [
+            530,
+            535,
+            526
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Short styles"
+          ],
+          "section": 537,
+          "choice": 538,
+          "entry": 540,
+          "back": 541,
+          "parent_section": 44,
+          "lines": [
+            78,
+            68,
+            183,
+            179,
+            541
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu"
+          ],
+          "section": 44,
+          "choice": 45,
+          "back": 46,
+          "lines": [
+            510,
+            525,
+            540,
+            46
+          ]
+        },
+        {
+          "path": [
+            "dlc2_beard_style_menu",
+            "Full styles"
+          ],
+          "section": 542,
+          "choice": 543,
+          "entry": 545,
+          "back": 546,
+          "parent_section": 37,
+          "lines": [
+            39,
+            253,
+            258,
+            308,
+            546
+          ]
+        },
+        {
+          "path": [
+            "dlc2_beard_style_menu",
+            "Half styles"
+          ],
+          "section": 547,
+          "choice": 548,
+          "entry": 550,
+          "back": 551,
+          "parent_section": 37,
+          "lines": [
+            293,
+            298,
+            313,
+            318,
+            323,
+            551
+          ]
+        },
+        {
+          "path": [
+            "dlc2_beard_style_menu"
+          ],
+          "section": 37,
+          "choice": 38,
+          "back": 43,
+          "lines": [
+            250,
+            545,
+            550,
+            43
+          ]
+        }
+      ],
+      "original_exports": 506,
+      "new_exports": 551,
+      "moved_selection_lines": {
+        "1092736": 49,
+        "1092737": 61,
+        "1092740": 73,
+        "2114400004": 109,
+        "2114400009": 134,
+        "2114400007": 124,
+        "2114400008": 129,
+        "2114400021": 159,
+        "1092738": 84,
+        "2114400000": 89,
+        "2114400002": 99,
+        "2114400020": 154,
+        "2114400023": 169,
+        "2114400001": 94,
+        "2114400003": 104,
+        "2114400024": 174,
+        "1092739": 78,
+        "1092741": 68,
+        "1479191": 183,
+        "2114400030": 179,
+        "1092834": 39,
+        "1092742": 253,
+        "1092743": 258,
+        "2114400026": 308,
+        "2114400017": 293,
+        "2114400018": 298,
+        "2114400027": 313,
+        "2114400028": 318,
+        "2114400029": 323
+      },
+      "navigation_lines": [
+        510,
+        511,
+        515,
+        516,
+        520,
+        521,
+        525,
+        526,
+        530,
+        531,
+        535,
+        536,
+        540,
+        541,
+        545,
+        546,
+        550,
+        551
+      ],
+      "root_choices": [
+        45,
+        38
+      ],
+      "fancy_bowl_present": false,
+      "hidden_localization_ids": [
+        1092744
+      ],
+      "corrected_hair_links": []
+    },
+    "dlc/dlc2/data/quests/scenes/shop_novi_poor_dist_drunk_barber_01.w2scene": {
+      "menus": [
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Ponytails",
+            "Short"
+          ],
+          "section": 666,
+          "choice": 667,
+          "entry": 669,
+          "back": 670,
+          "parent_section": 661,
+          "lines": [
+            52,
+            263,
+            364,
+            493,
+            446,
+            670
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Ponytails",
+            "Long"
+          ],
+          "section": 671,
+          "choice": 672,
+          "entry": 674,
+          "back": 675,
+          "parent_section": 661,
+          "lines": [
+            502,
+            299,
+            382,
+            675
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Ponytails"
+          ],
+          "section": 661,
+          "choice": 662,
+          "entry": 664,
+          "back": 665,
+          "parent_section": 50,
+          "lines": [
+            669,
+            674,
+            665
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Long styles",
+            "Loose"
+          ],
+          "section": 681,
+          "choice": 682,
+          "entry": 684,
+          "back": 685,
+          "parent_section": 676,
+          "lines": [
+            344,
+            455,
+            308,
+            355,
+            290,
+            685
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Long styles",
+            "Headband"
+          ],
+          "section": 686,
+          "choice": 687,
+          "entry": 689,
+          "back": 690,
+          "parent_section": 676,
+          "lines": [
+            511,
+            475,
+            279,
+            690
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Long styles"
+          ],
+          "section": 676,
+          "choice": 677,
+          "entry": 679,
+          "back": 680,
+          "parent_section": 50,
+          "lines": [
+            684,
+            689,
+            680
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Short styles"
+          ],
+          "section": 691,
+          "choice": 692,
+          "entry": 694,
+          "back": 695,
+          "parent_section": 50,
+          "lines": [
+            391,
+            414,
+            432,
+            317,
+            695
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu"
+          ],
+          "section": 50,
+          "choice": 51,
+          "back": 169,
+          "lines": [
+            664,
+            679,
+            694,
+            169
+          ]
+        },
+        {
+          "path": [
+            "dlc2_beard_style_menu",
+            "Full styles"
+          ],
+          "section": 696,
+          "choice": 697,
+          "entry": 699,
+          "back": 700,
+          "parent_section": 56,
+          "lines": [
+            77,
+            89,
+            94,
+            144,
+            700
+          ]
+        },
+        {
+          "path": [
+            "dlc2_beard_style_menu",
+            "Half styles"
+          ],
+          "section": 701,
+          "choice": 702,
+          "entry": 704,
+          "back": 705,
+          "parent_section": 56,
+          "lines": [
+            129,
+            134,
+            149,
+            154,
+            159,
+            705
+          ]
+        },
+        {
+          "path": [
+            "dlc2_beard_style_menu"
+          ],
+          "section": 56,
+          "choice": 57,
+          "back": 58,
+          "lines": [
+            61,
+            699,
+            704,
+            58
+          ]
+        }
+      ],
+      "original_exports": 660,
+      "new_exports": 705,
+      "moved_selection_lines": {
+        "1092736": 52,
+        "1092737": 263,
+        "1092740": 364,
+        "2114400004": 493,
+        "2114400009": 446,
+        "2114400007": 502,
+        "2114400008": 299,
+        "2114400021": 382,
+        "1092738": 344,
+        "2114400000": 455,
+        "2114400002": 308,
+        "2114400020": 355,
+        "2114400023": 290,
+        "2114400001": 511,
+        "2114400003": 475,
+        "2114400024": 279,
+        "1092739": 391,
+        "1092741": 414,
+        "1479191": 432,
+        "2114400030": 317,
+        "1092834": 77,
+        "1092742": 89,
+        "1092743": 94,
+        "2114400026": 144,
+        "2114400017": 129,
+        "2114400018": 134,
+        "2114400027": 149,
+        "2114400028": 154,
+        "2114400029": 159
+      },
+      "navigation_lines": [
+        664,
+        665,
+        669,
+        670,
+        674,
+        675,
+        679,
+        680,
+        684,
+        685,
+        689,
+        690,
+        694,
+        695,
+        699,
+        700,
+        704,
+        705
+      ],
+      "root_choices": [
+        51,
+        57
+      ],
+      "fancy_bowl_present": false,
+      "hidden_localization_ids": [
+        1092744
+      ],
+      "corrected_hair_links": [
+        {
+          "localization_id": 1092736,
+          "choice_line": 52,
+          "link": 323,
+          "previous_script": 322,
+          "previous_item": "Roksa Alt Olgierd Hairstyle",
+          "script": 286,
+          "item": "Half With Tail Hairstyle"
+        },
+        {
+          "localization_id": 1092737,
+          "choice_line": 263,
+          "link": 267,
+          "previous_script": 284,
+          "previous_item": "Ard Elven Headband Hairstyle",
+          "script": 329,
+          "item": "Shaved With Tail Hairstyle"
+        },
+        {
+          "localization_id": 2114400008,
+          "choice_line": 299,
+          "link": 296,
+          "previous_script": 295,
+          "previous_item": "Ard Elven Long Hairstyle",
+          "script": 304,
+          "item": "Ard Shaved With Long Tail Hairstyle"
+        },
+        {
+          "localization_id": 1092738,
+          "choice_line": 344,
+          "link": 341,
+          "previous_script": 340,
+          "previous_item": "FidoX Viking Hairstyle",
+          "script": 349,
+          "item": "Long Loose Hairstyle"
+        },
+        {
+          "localization_id": 1092739,
+          "choice_line": 391,
+          "link": 388,
+          "previous_script": 387,
+          "previous_item": "Ard Mohawk With Long Ponytail Hairstyle",
+          "script": 396,
+          "item": "Short Loose Hairstyle"
+        },
+        {
+          "localization_id": 1092740,
+          "choice_line": 364,
+          "link": 361,
+          "previous_script": 360,
+          "previous_item": "Feregorn Cinematic Hairstyle",
+          "script": 369,
+          "item": "Mohawk With Ponytail Hairstyle"
+        },
+        {
+          "localization_id": 2114400021,
+          "choice_line": 382,
+          "link": 379,
+          "previous_script": 378,
+          "previous_item": "Feregorn Zoltan Hairstyle",
+          "script": 387,
+          "item": "Ard Mohawk With Long Ponytail Hairstyle"
+        },
+        {
+          "localization_id": 1092741,
+          "choice_line": 414,
+          "link": 411,
+          "previous_script": 410,
+          "previous_item": "HellSpawn Logan Hairstyle",
+          "script": 36,
+          "item": "Nilfgaardian Hairstyle"
+        },
+        {
+          "localization_id": 1479191,
+          "choice_line": 432,
+          "link": 429,
+          "previous_script": 428,
+          "previous_item": "Ard Shaved Hairstyle",
+          "script": 439,
+          "item": "Rabble rouser Hair"
+        },
+        {
+          "localization_id": 2114400000,
+          "choice_line": 455,
+          "link": 452,
+          "previous_script": 451,
+          "previous_item": "Ard Rivian Tail Hairstyle",
+          "script": 460,
+          "item": "Ard Long Loose Hairstyle"
+        },
+        {
+          "localization_id": 2114400002,
+          "choice_line": 308,
+          "link": 305,
+          "previous_script": 304,
+          "previous_item": "Ard Shaved With Long Tail Hairstyle",
+          "script": 313,
+          "item": "Ard Alt Long Loose Hairstyle"
+        },
+        {
+          "localization_id": 2114400001,
+          "choice_line": 511,
+          "link": 508,
+          "previous_script": 507,
+          "previous_item": "Craniumj Long Full Pony Hairstyle",
+          "script": 516,
+          "item": "Ard Headband Hairstyle"
+        },
+        {
+          "localization_id": 2114400003,
+          "choice_line": 475,
+          "link": 472,
+          "previous_script": 471,
+          "previous_item": "Roksa Witold Hairstyle",
+          "script": 480,
+          "item": "Ard Alt Headband Hairstyle"
+        },
+        {
+          "localization_id": 2114400004,
+          "choice_line": 493,
+          "link": 490,
+          "previous_script": 489,
+          "previous_item": "Roksa Olgierd Hairstyle",
+          "script": 498,
+          "item": "Craniumj Full Pony Hairstyle"
+        },
+        {
+          "localization_id": 2114400007,
+          "choice_line": 502,
+          "link": 499,
+          "previous_script": 498,
+          "previous_item": "Craniumj Full Pony Hairstyle",
+          "script": 507,
+          "item": "Craniumj Long Full Pony Hairstyle"
+        },
+        {
+          "localization_id": 2114400030,
+          "choice_line": 317,
+          "link": 314,
+          "previous_script": 313,
+          "previous_item": "Ard Alt Long Loose Hairstyle",
+          "script": 322,
+          "item": "Roksa Alt Olgierd Hairstyle"
+        },
+        {
+          "localization_id": 2114400009,
+          "choice_line": 446,
+          "link": 443,
+          "previous_script": 460,
+          "previous_item": "Ard Long Loose Hairstyle",
+          "script": 451,
+          "item": "Ard Rivian Tail Hairstyle"
+        },
+        {
+          "localization_id": 2114400020,
+          "choice_line": 355,
+          "link": 352,
+          "previous_script": 396,
+          "previous_item": "Short Loose Hairstyle",
+          "script": 360,
+          "item": "Feregorn Cinematic Hairstyle"
+        },
+        {
+          "localization_id": 2114400023,
+          "choice_line": 290,
+          "link": 287,
+          "previous_script": 329,
+          "previous_item": "Shaved With Tail Hairstyle",
+          "script": 295,
+          "item": "Ard Elven Long Hairstyle"
+        },
+        {
+          "localization_id": 2114400024,
+          "choice_line": 279,
+          "link": 276,
+          "previous_script": 286,
+          "previous_item": "Half With Tail Hairstyle",
+          "script": 284,
+          "item": "Ard Elven Headband Hairstyle"
+        }
+      ]
+    },
+    "dlc/dlc2/data/quests/scenes/shop_novi_rich_dist_barber_01.w2scene": {
+      "menus": [
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Ponytails",
+            "Short"
+          ],
+          "section": 391,
+          "choice": 392,
+          "entry": 394,
+          "back": 395,
+          "parent_section": 386,
+          "lines": [
+            38,
+            50,
+            62,
+            98,
+            123,
+            395
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Ponytails",
+            "Long"
+          ],
+          "section": 396,
+          "choice": 397,
+          "entry": 399,
+          "back": 400,
+          "parent_section": 386,
+          "lines": [
+            113,
+            118,
+            148,
+            400
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Ponytails"
+          ],
+          "section": 386,
+          "choice": 387,
+          "entry": 389,
+          "back": 390,
+          "parent_section": 33,
+          "lines": [
+            394,
+            399,
+            390
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Long styles",
+            "Loose"
+          ],
+          "section": 406,
+          "choice": 407,
+          "entry": 409,
+          "back": 410,
+          "parent_section": 401,
+          "lines": [
+            73,
+            78,
+            88,
+            143,
+            158,
+            410
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Long styles",
+            "Headband"
+          ],
+          "section": 411,
+          "choice": 412,
+          "entry": 414,
+          "back": 415,
+          "parent_section": 401,
+          "lines": [
+            83,
+            93,
+            163,
+            415
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Long styles"
+          ],
+          "section": 401,
+          "choice": 402,
+          "entry": 404,
+          "back": 405,
+          "parent_section": 33,
+          "lines": [
+            409,
+            414,
+            405
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Short styles"
+          ],
+          "section": 416,
+          "choice": 417,
+          "entry": 419,
+          "back": 420,
+          "parent_section": 33,
+          "lines": [
+            67,
+            57,
+            172,
+            168,
+            420
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu"
+          ],
+          "section": 33,
+          "choice": 34,
+          "back": 35,
+          "lines": [
+            389,
+            404,
+            419,
+            35
+          ]
+        },
+        {
+          "path": [
+            "dlc2_beard_style_menu",
+            "Full styles"
+          ],
+          "section": 421,
+          "choice": 422,
+          "entry": 424,
+          "back": 425,
+          "parent_section": 27,
+          "lines": [
+            29,
+            244,
+            249,
+            299,
+            425
+          ]
+        },
+        {
+          "path": [
+            "dlc2_beard_style_menu",
+            "Half styles"
+          ],
+          "section": 426,
+          "choice": 427,
+          "entry": 429,
+          "back": 430,
+          "parent_section": 27,
+          "lines": [
+            284,
+            289,
+            304,
+            309,
+            314,
+            430
+          ]
+        },
+        {
+          "path": [
+            "dlc2_beard_style_menu"
+          ],
+          "section": 27,
+          "choice": 28,
+          "back": 214,
+          "lines": [
+            241,
+            424,
+            429,
+            214
+          ]
+        }
+      ],
+      "original_exports": 385,
+      "new_exports": 430,
+      "moved_selection_lines": {
+        "1092736": 38,
+        "1092737": 50,
+        "1092740": 62,
+        "2114400004": 98,
+        "2114400009": 123,
+        "2114400007": 113,
+        "2114400008": 118,
+        "2114400021": 148,
+        "1092738": 73,
+        "2114400000": 78,
+        "2114400002": 88,
+        "2114400020": 143,
+        "2114400023": 158,
+        "2114400001": 83,
+        "2114400003": 93,
+        "2114400024": 163,
+        "1092739": 67,
+        "1092741": 57,
+        "1479191": 172,
+        "2114400030": 168,
+        "1092834": 29,
+        "1092742": 244,
+        "1092743": 249,
+        "2114400026": 299,
+        "2114400017": 284,
+        "2114400018": 289,
+        "2114400027": 304,
+        "2114400028": 309,
+        "2114400029": 314
+      },
+      "navigation_lines": [
+        389,
+        390,
+        394,
+        395,
+        399,
+        400,
+        404,
+        405,
+        409,
+        410,
+        414,
+        415,
+        419,
+        420,
+        424,
+        425,
+        429,
+        430
+      ],
+      "root_choices": [
+        34,
+        28
+      ],
+      "fancy_bowl_present": false,
+      "hidden_localization_ids": [
+        1092744
+      ],
+      "corrected_hair_links": []
+    },
+    "dlc/dlc2/data/quests/scenes/shop_whitebridge_barber_01.w2scene": {
+      "menus": [
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Ponytails",
+            "Short"
+          ],
+          "section": 380,
+          "choice": 381,
+          "entry": 383,
+          "back": 384,
+          "parent_section": 375,
+          "lines": [
+            39,
+            51,
+            63,
+            99,
+            124,
+            384
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Ponytails",
+            "Long"
+          ],
+          "section": 385,
+          "choice": 386,
+          "entry": 388,
+          "back": 389,
+          "parent_section": 375,
+          "lines": [
+            114,
+            119,
+            149,
+            389
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Ponytails"
+          ],
+          "section": 375,
+          "choice": 376,
+          "entry": 378,
+          "back": 379,
+          "parent_section": 34,
+          "lines": [
+            383,
+            388,
+            379
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Long styles",
+            "Loose"
+          ],
+          "section": 395,
+          "choice": 396,
+          "entry": 398,
+          "back": 399,
+          "parent_section": 390,
+          "lines": [
+            74,
+            79,
+            89,
+            144,
+            159,
+            399
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Long styles",
+            "Headband"
+          ],
+          "section": 400,
+          "choice": 401,
+          "entry": 403,
+          "back": 404,
+          "parent_section": 390,
+          "lines": [
+            84,
+            94,
+            164,
+            404
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Long styles"
+          ],
+          "section": 390,
+          "choice": 391,
+          "entry": 393,
+          "back": 394,
+          "parent_section": 34,
+          "lines": [
+            398,
+            403,
+            394
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu",
+            "Short styles"
+          ],
+          "section": 405,
+          "choice": 406,
+          "entry": 408,
+          "back": 409,
+          "parent_section": 34,
+          "lines": [
+            68,
+            58,
+            173,
+            169,
+            409
+          ]
+        },
+        {
+          "path": [
+            "dlc2_hair_style_menu"
+          ],
+          "section": 34,
+          "choice": 35,
+          "back": 36,
+          "lines": [
+            378,
+            393,
+            408,
+            36
+          ]
+        },
+        {
+          "path": [
+            "dlc2_beard_style_menu",
+            "Full styles"
+          ],
+          "section": 410,
+          "choice": 411,
+          "entry": 413,
+          "back": 414,
+          "parent_section": 27,
+          "lines": [
+            29,
+            239,
+            244,
+            294,
+            414
+          ]
+        },
+        {
+          "path": [
+            "dlc2_beard_style_menu",
+            "Half styles"
+          ],
+          "section": 415,
+          "choice": 416,
+          "entry": 418,
+          "back": 419,
+          "parent_section": 27,
+          "lines": [
+            279,
+            284,
+            299,
+            304,
+            309,
+            419
+          ]
+        },
+        {
+          "path": [
+            "dlc2_beard_style_menu"
+          ],
+          "section": 27,
+          "choice": 28,
+          "back": 33,
+          "lines": [
+            236,
+            413,
+            418,
+            33
+          ]
+        }
+      ],
+      "original_exports": 374,
+      "new_exports": 419,
+      "moved_selection_lines": {
+        "1092736": 39,
+        "1092737": 51,
+        "1092740": 63,
+        "2114400004": 99,
+        "2114400009": 124,
+        "2114400007": 114,
+        "2114400008": 119,
+        "2114400021": 149,
+        "1092738": 74,
+        "2114400000": 79,
+        "2114400002": 89,
+        "2114400020": 144,
+        "2114400023": 159,
+        "2114400001": 84,
+        "2114400003": 94,
+        "2114400024": 164,
+        "1092739": 68,
+        "1092741": 58,
+        "1479191": 173,
+        "2114400030": 169,
+        "1092834": 29,
+        "1092742": 239,
+        "1092743": 244,
+        "2114400026": 294,
+        "2114400017": 279,
+        "2114400018": 284,
+        "2114400027": 299,
+        "2114400028": 304,
+        "2114400029": 309
+      },
+      "navigation_lines": [
+        378,
+        379,
+        383,
+        384,
+        388,
+        389,
+        393,
+        394,
+        398,
+        399,
+        403,
+        404,
+        408,
+        409,
+        413,
+        414,
+        418,
+        419
+      ],
+      "root_choices": [
+        35,
+        28
+      ],
+      "fancy_bowl_present": false,
+      "hidden_localization_ids": [
+        1092744
+      ],
+      "corrected_hair_links": []
+    }
+  },
+  "output_sha256": {
+    "content/ar.w3strings": "f0916c9d449011ea96dcf49428718b7c6be94acc6b1adeffcf203966e55ee59c",
+    "content/jp.w3strings": "8470d12fdc7a7f742e3a532b36b6446002ae9047ee8727313dec52fb2bd10c40",
+    "content/pl.w3strings": "17f9676aae315186bbe6c85a3d0df9dfa5905ca47bd4f5dbadebad1b7a61db20",
+    "content/it.w3strings": "431052b8aebea4d020d008d754302494c4bc55952688b33a1412db9ed0c2c3dd",
+    "content/blob0.bundle": "78909e8b13d6a1fd38f0678ad5a1fd56879cb320a4456e431b7446a73bb80b6a",
+    "content/ru.w3strings": "e3d2c1d28a23b2df73b430a8abaed59d56666f053af03e2ea7f4f45d49258691",
+    "content/info.json": "bd82c20d7aa0fd5854bf9a163f3a19c74f69100c9167869001efec653f537ad9",
+    "content/fr.w3strings": "6255b1e5a820c8f4567bdc7707ff2c515574bf8ae971f73b699df37146d1d806",
+    "content/cz.w3strings": "e496aa6ccafef6d311ec03ef735ff5c0dbc7bfc284e13ddf644a4b899cb6ca3d",
+    "content/tr.w3strings": "f0916c9d449011ea96dcf49428718b7c6be94acc6b1adeffcf203966e55ee59c",
+    "content/br.w3strings": "f0916c9d449011ea96dcf49428718b7c6be94acc6b1adeffcf203966e55ee59c",
+    "content/buffers0.bundle": "4f3e408cbeeef2b0753d5169e8ec003e2b35c082daff9943663eb02014ade3ac",
+    "content/texture.cache": "50a95c723b1f7698a24d621fcf494a4d19e13631118f806f9a71092c96a179f7",
+    "content/metadata.store": "5383af31988ee0d533569c4f33664e5f2d0969112098ed30741d78874ea6da29",
+    "content/hu.w3strings": "95fd391676776d9aebe354c7d2148e1688b47ad2be8c5f4336df835ac764bca7",
+    "content/de.w3strings": "05b841977586399542c1432f0df96376739503e4c370986456036a0d5ba2bfd1",
+    "content/esmx.w3strings": "f0916c9d449011ea96dcf49428718b7c6be94acc6b1adeffcf203966e55ee59c",
+    "content/kr.w3strings": "f0916c9d449011ea96dcf49428718b7c6be94acc6b1adeffcf203966e55ee59c",
+    "content/en.w3strings": "5e433e5779a8b553dcb0efed99b083f66fd67cae9550d8205431c8b5afb5e906",
+    "content/es.w3strings": "419e8968eeb58e1df364e06e20d1ae82f4768d902e4f89cf2755ac9d31ed1279",
+    "content/cn.w3strings": "f0916c9d449011ea96dcf49428718b7c6be94acc6b1adeffcf203966e55ee59c",
+    "content/zh.w3strings": "98c2a1f84ba809d061191064fe5696df4af156fc8a7e38ee1db3e4332d94f369",
+    "content/scripts/local/dlc2improved_hair.ws": "bac1fe4039e442251c8f71cca2b247556ed3c8a0267590f42a0fa5a305f7d542",
+    "content/scripts/local/dlc2improved_head.ws": "e6dfb3479ac9022a1ff76a412e4c61a711cf50848af4d3e94a202e7e84523d84",
+    "content/scripts/local/dlc2improved_commands.ws": "1a847e38cd1812e8f51d1395e6412614802902efe48f6b4d12e25c4db85f51d7"
+  }
+}

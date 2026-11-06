@@ -8,7 +8,9 @@ Hairstyles are ordered Ponytails → Long styles → Short styles → Back. Pony
 
 Beards are ordered Clean shave → Full styles → Half styles → Back. Full styles contains growth stage 3, head_5, head_6, and Olgierd's beard. Half styles contains A mustache, A classic goatee, Sideburns, A chin curtain, and Olgierd's mustache. These vanilla labels are descriptions, not replacements for the game's localization.
 
-New headings and Back use new localization IDs 2114400031–2114400040, with English fallback in all supplied languages. Existing localized style text is preserved. Existing style selection actions, prices, and availability conditions are preserved; submenu navigation itself has no purchase action. Back returns to the immediate parent menu. After purchasing a style, the existing scene flow is preserved.
+New headings and Back use new localization IDs 2114400031–2114400040, with English fallback in all supplied languages. Existing localized style text is preserved. Existing selection script arguments, prices, and availability conditions are preserved; submenu navigation itself has no purchase action. Back returns to the immediate parent menu. Existing animation sections are preserved.
+
+Validation found inherited mismatched first-use haircut links in the Novigrad drunk barber scene. Twenty retained hairstyle options pointed to a different hairstyle on that branch, including six removed styles. Their animation continuations now point to the same correct hairstyle script as their alternate branch, and incoming links are updated consistently. No script argument, condition or price is changed by this repair. Details are in `menu-report.json` under `corrected_hair_links`.
 
 `menu-report.json` records every submenu, graph link, localization ID and final mod file hash. `removal-report.json` records the earlier removal stage (its output hashes describe that stage, not this final grouped build). `base/` remains unchanged.
 
