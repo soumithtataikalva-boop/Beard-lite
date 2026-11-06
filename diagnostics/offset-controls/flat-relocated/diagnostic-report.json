@@ -1,0 +1,37 @@
+{
+  "control": "flat-relocated",
+  "working_test_3_fixture_matched": true,
+  "original_resources_preserved": 263,
+  "changed_mod_files": [
+    "content/blob0.bundle",
+    "content/metadata.store"
+  ],
+  "scene_reports": {},
+  "output_sha256": {
+    "content/ar.w3strings": "147d889b3f39158f48d9ddd7b9c2a9c51a134570f26a06dae3fece7c725d6268",
+    "content/jp.w3strings": "fc84988d38977d16cabf7ecc0cbf0f34b9dc8ae4a27ef047abf3a35d8b935f45",
+    "content/pl.w3strings": "8ec2d299ad3c5e47bc89325f2dd33127e1a57695b659f59f7d138ade5075d471",
+    "content/it.w3strings": "34c7a5a2fda84779d003bc90a2da7a1b3bf178281329ed983fee766abec35225",
+    "content/blob0.bundle": "1bdefd72df2daca3bf7082a3b37f677c5b9193e18a0d2ceeb408e4cb958f709c",
+    "content/ru.w3strings": "93e09e25421bc03e1c5c76befec1b96f798f94bfacf9e44133fcde37f0e95e49",
+    "content/info.json": "bd82c20d7aa0fd5854bf9a163f3a19c74f69100c9167869001efec653f537ad9",
+    "content/fr.w3strings": "b35e586375e70c3ed2038b033f9c10367bfd82a583630faaccc86d862dcea368",
+    "content/cz.w3strings": "e0de18c3d89c2083baf1701351015fba5a545efd0c77eb5e27f3a7f96fcf7e7c",
+    "content/tr.w3strings": "147d889b3f39158f48d9ddd7b9c2a9c51a134570f26a06dae3fece7c725d6268",
+    "content/br.w3strings": "147d889b3f39158f48d9ddd7b9c2a9c51a134570f26a06dae3fece7c725d6268",
+    "content/buffers0.bundle": "eaea161f3172e2fe61c5b7e32a1db91939fe86d6478e8fb42966417b0e552b5a",
+    "content/texture.cache": "50a95c723b1f7698a24d621fcf494a4d19e13631118f806f9a71092c96a179f7",
+    "content/metadata.store": "7201a219285a9a30d1da83209f4bed3afbc6c0bb02ab22eaf89796a54c08d0da",
+    "content/hu.w3strings": "26d3b1bf0e4ac0c603406015ebe464856bc4b0c3e365b800d3205f4c1035c096",
+    "content/de.w3strings": "0453c6444f260ea62e206dba63e1f754628c5c62553ffb4171ea6e298f8e7511",
+    "content/esmx.w3strings": "147d889b3f39158f48d9ddd7b9c2a9c51a134570f26a06dae3fece7c725d6268",
+    "content/kr.w3strings": "147d889b3f39158f48d9ddd7b9c2a9c51a134570f26a06dae3fece7c725d6268",
+    "content/en.w3strings": "cefffa185b3ecd94e10dfe16771c972fcc05e472631b4389ffa9474e1f7b101a",
+    "content/es.w3strings": "7cbaef22846b1c3c410664d4e053fb1fdbadedf1a387af411324af6751f95f79",
+    "content/cn.w3strings": "147d889b3f39158f48d9ddd7b9c2a9c51a134570f26a06dae3fece7c725d6268",
+    "content/zh.w3strings": "ac58bef7ab5a25b5f2825968a3e665e648fea092cf5d3edd81712e7f902a0c8c",
+    "content/scripts/local/dlc2improved_hair.ws": "4c3866ad900dc1b0573dda8e2ec97bc093cb019619ab2208d1e9b5511943ffcb",
+    "content/scripts/local/dlc2improved_head.ws": "750c1a9a603d7785bf9e9fc8a9e61148d745e5c976d636a0fb8405d74e79fb31",
+    "content/scripts/local/dlc2improved_commands.ws": "15bc6100439fda1105de958d8f16099d47d68c0129a8d4df966e2ab48df9895e"
+  }
+}
