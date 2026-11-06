@@ -1,0 +1,13 @@
+{
+    "name": "newhairstylesandbeards",
+    "modName": "newhairstylesandbeards",
+    "version": "4.0",
+    "gameVersion": "29",
+    "description": "New Hairstyles and Beards",
+    "author": "Ard Carraigh",
+    "idSpace": 1044000000,
+    "workshopId": 0,
+    "succesfullyCooked": true,
+    "dependencies": [],
+    "useLooseScripts": true
+}
